@@ -83,11 +83,11 @@ author:
   name             : "Kamber Lucas"
   avatar           : "https://github.com/Kamberlu.png"
   bio              : "Registered Investment Advisor / Returned Peace Corps Volunteer / MBA Student"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : 
+  employer         : "Colorado State University"
+  pubmed           : 
+  googlescholar    : 
+  email            : "Kambermal@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,17 +99,17 @@ author:
   github           : "Kamberlu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "Kamber__Lucas"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "kamberlucas"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
