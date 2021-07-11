@@ -16,3 +16,5 @@ I am originally from [Wasilla, Alaska](https://www.frontiersman.com/kamber-lucas
 My overall goals post graduate school would be to work in large scale food systems driving the transition from industrial agriculture to [regenerative agriculture](https://wwoofusa.org/user/766091), or to [work](https://www.beyondwealthmanagement.com/blog-01/what-values-based-investing) in finance developing sustainable investment solutions.
 
 <!-- I am interested the [outdoors] (https://wrrnetwork.com/2021/03/31/uw-launches-new-outdoor-guide-certification/) in Meditation and [Yoga](https://isha.sadhguru.org/us/en/blog/article/shoonya-program-iiis) for healing --> 
+
+<!-- https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fpeacecorpsmacedonia%2Fvideos%2F449672655751828%2F&show_text=true&width=560&t=1326 -->
