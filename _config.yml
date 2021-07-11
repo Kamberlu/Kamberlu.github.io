@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kamber Lucas / A life of pleasure"
+title                    : "Kamber Lucas"
 title_separator          : "-"
 name                     : &name "Kamber Lucas"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Kamber Lucas"
+  avatar           : "https://github.com/Kamberlu.png"
+  bio              : "Registered Investment Advisor / Returned Peace Corps Volunteer / MBA Student"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
